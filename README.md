@@ -5,13 +5,13 @@ Documentação socket de rede TCP
 
 Para usar esses sockets é bem simples primeiro execute o socket:
 
-- servidor_Socke.py
+- servidor_Socket.py
 
 para o servidor ficar escutando, ou seja, esperando que o cliente estabeleça a comunicação
 
 depois execute o socket:
 
- - cliente_socke.py
+ - cliente_socket.py
 
 e envie sua mensagem
 
@@ -19,13 +19,13 @@ Para executar esses programas pelo terminal é simples, basta usar os comandos:
 
 Para o servidor_Socke.py
 
-chmod 744 servidor_Socke.py   # para dá permissão
-./servidor_Socke.py           # para executar
+chmod 744 servidor_Socket.py   # para dá permissão
+./servidor_Socket.py           # para executar
 
 Para o cliente_socke.py
 
-chmod 744 cliente_socke.py   # para dá permissão
-./cliente_socke.py           # para executar
+chmod 744 cliente_socket.py   # para dá permissão
+./cliente_socket.py           # para executar
 
 
 Funcionamento do software
