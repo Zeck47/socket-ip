@@ -26,9 +26,3 @@ while True:
 		break
 	print("mensagem recebida:", data)
 	conn.sendall(data)
-  
-  
-  
-  
-  
-  
